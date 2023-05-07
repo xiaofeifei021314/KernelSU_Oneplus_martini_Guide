@@ -13,7 +13,7 @@ on:
         KERNEL_SOURCE:
           description: 'Kernel Source'
           required: true
-          default: "https://github.com/xiaofeifei021314/kernel_oneplus_sm8350_pixelOS.git"
+          default: "https://github.com/xiaofeifei021314/kernel_oplus_sm8350.git"
           type: string
         KERNEL_SOURCE_BRANCH:
           description: 'kernel Branch'
